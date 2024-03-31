@@ -1,0 +1,5 @@
+2 # number of species
+14 # number of displaced atoms
+C O #  chemical elements
+6 8 # number of atoms of each element
+0.2 # scaling amplitude, 0.2 is good for Raman, change to 1.0 for visualization
